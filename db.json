@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "2dab681c-1de9-483b-aea6-ea6e3cc7d038",
+      "name": "mukila",
+      "email": "mukilan@gamil.com"
+    },
+    {
+      "id": "f2c4b5dc-e6f3-4164-ac96-76fa8d17e1fc",
+      "name": "ramya",
+      "email": "ramya@gmail.com"
+    },
+    {
+      "id": "d2bb9708-f90c-45cb-b8a9-6e0d91239ee8",
+      "name": "raja",
+      "email": "raja@gmail.com"
+    }
+  ]
+}
